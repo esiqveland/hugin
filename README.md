@@ -2,7 +2,7 @@
 
 Hugin remembers things and finds them again for you.
 
-A toy project to see where I can take indexing context on the desktop computer.
+A toy project to see where I can take indexing content on the linux desktop.
 
 ### Notes
 
