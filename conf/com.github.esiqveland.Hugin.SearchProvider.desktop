@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Categories=GNOME
+Icon=system-search
+Name=Hugin
+Comment=GNOME Shell search provider for Hugin
+Terminal=true
+Type=Application
+OnlyShowIn=GNOME;
+Path=/home/eivind/bin
+Exec=/home/eivind/bin/hugin.sh
+
