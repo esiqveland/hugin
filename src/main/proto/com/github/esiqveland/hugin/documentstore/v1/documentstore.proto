@@ -1,0 +1,16 @@
+syntax = "proto3";
+
+package com.github.esiqveland.hugin.documentstore.v1;
+
+message StoredDocument {
+  string content = 1;
+  bytes checksum = 2;
+  DocMetadata metadata = 3;
+}
+
+message DocMetadata {
+  string title = 1;
+  string owner = 2;
+  int32 created_at_epoch = 3;
+  int32 modified_at_epoch = 4;
+}

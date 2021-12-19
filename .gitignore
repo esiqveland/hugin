@@ -1,0 +1,20 @@
+# Idea project files
+*.iml
+.idea/
+
+# Gradle files
+out/
+build/
+.gradle/
+mytemp/
+
+# Generated sources
+src/generated
+
+# OS specific
+.DS_Store
+
+local.properties
+config.properties
+
+node_modules
